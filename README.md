@@ -1,6 +1,6 @@
 # Blog App BV
 
-A website to list users, posts and posts comments from API (https://jsonplaceholder.typicode.com)
+A website to list users, posts and posts comments from [JSON Placeholder API](https://jsonplaceholder.typicode.com)
 
 # Pages
 
